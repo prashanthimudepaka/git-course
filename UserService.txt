@@ -4,3 +4,5 @@ process the data
 create an avatar for user
 
 login and logout
+
+creation of feature for user
