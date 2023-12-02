@@ -9,4 +9,8 @@ creation of feature
 
 changes due to feature4
 
+<<<<<<< HEAD
 connect to my db
+=======
+connect to oracle db
+>>>>>>> feature5
