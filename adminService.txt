@@ -3,7 +3,7 @@ change the roles
 
 manage the db
 
-closing the connection
+closing the mydb connection
 
 creation of feature
 
