@@ -9,4 +9,8 @@ creation of feature for user
 
 added feature
 
+<<<<<<< HEAD
 Hello
+=======
+Hi
+>>>>>>> feature6
