@@ -8,3 +8,5 @@ closing the connection
 creation of feature
 
 changes due to feature4
+
+connect to my db
